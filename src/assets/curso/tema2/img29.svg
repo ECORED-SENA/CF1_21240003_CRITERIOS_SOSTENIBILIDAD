@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="295" height="179" viewBox="0 0 295 179">
+  <defs>
+    <filter id="Rectángulo_37249" x="5" y="0" width="286" height="175" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_849909" data-name="Grupo 849909" transform="translate(-495 -7653)">
+    <path id="Trazado_245470" data-name="Trazado 245470" d="M10,0H285a10,10,0,0,1,10,10v99a10,10,0,0,1-10,10H10A10,10,0,0,1,0,109V10A10,10,0,0,1,10,0Z" transform="translate(495 7713)" fill="#4acfd9"/>
+    <g transform="matrix(1, 0, 0, 1, 495, 7653)" filter="url(#Rectángulo_37249)">
+      <rect id="Rectángulo_37249-2" data-name="Rectángulo 37249" width="268" height="157" rx="10" transform="translate(14 6)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

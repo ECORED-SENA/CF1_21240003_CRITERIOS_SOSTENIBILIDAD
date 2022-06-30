@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'El futuro de la materialidad y estrategias que generan valor',
+    descripcionCurso:
+      'Este componente proporciona la información necesaria para reconocer los componentes, el marco institucional y las estrategias y herramientas de sostenibilidad más usadas dentro del contexto productivo, esto con el fin de contar con los conocimientos necesarios para poder  identificar, gestionar y promover los impactos del desarrollo sostenible en las operaciones y procesos organizacionales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +14,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -32,14 +38,21 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Componentes de la sostenibilidad',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo:
+              'Componentes claves para el desarrollo sostenible (ambiente, economía, tecnología y sociedad)',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Operaciones y procesos organizacionales',
+            hash: 't_1_2',
           },
         ],
       },
@@ -48,15 +61,92 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Análisis de materialidad socioambiental',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo:
+              'Entendimiento del modelo de negocio de una organización (método Canvas)',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo:
+              'Entendimiento de los procesos dentro de la cadena de valor de la organización',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo:
+              'Impactos ambientales: herramientas de identificación y evaluación de impactos (evaluación de impactos ambientales EIA, huellas ambientales, análisis de ciclo de vida ACV, huella ecológica)',
+            hash: 't_2_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.4',
+            titulo:
+              'Partes interesadas: identificación, clasificación y priorización de partes interesadas',
+            hash: 't_2_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.5',
+            titulo: 'Priorización de temas ambientales',
+            hash: 't_2_5',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'Marco institucional para el desarrollo sostenible (normativa internacional, nacional y local, tratados, políticas y normas legales)',
         desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Estrategias y herramientas para la sostenibilidad',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Economía circular y producción sostenible',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Ecoetiquetas y declaraciones ambientales',
+            hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo:
+              'Modelos de negocio sostenible (empresas B, negocios verdes)',
+            hash: 't_4_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.4',
+            titulo: 'Responsabilidad social empresarial',
+            hash: 't_4_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.5',
+            titulo: 'Indicadores ambientales',
+            hash: 't_4_5',
+          },
+        ],
       },
     ],
     subMenu: [
