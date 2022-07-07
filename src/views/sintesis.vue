@@ -3,9 +3,10 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    p El desarrollo de este componente de aprendizaje busca fortalecer en los aprendices del curso complementario sobre “Estrategias para la incorporación de criterios de sostenibilidad”, sus habilidades y conocimientos respectos a los conceptos, estrategias, metodologías y normatividad necesaria para el desarrollo de un proyecto sostenible dentro de cualquier tipo de organización. 
+    p.mb-3 Se establece de manera clara la ruta que se debe tener en cuenta para desarrollar acciones que respondan a los requerimientos en cuanto a la responsabilidad social y la protección del medio ambiente, los cuales resultan indispensables en el mejoramiento de la calidad de vida del ser humano. 
+     p.mb-3 Una breve revisión de los temas vistos, se encuentran en el siguiente esquema:
+     
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
