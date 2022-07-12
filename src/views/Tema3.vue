@@ -40,7 +40,7 @@
           .col-lg-7
             figure
               img(src='@/assets/curso/tema3/img3.png').m-auto
-        p.mb-5 Para seguir avanzado hacia la consolidación de los ODS, la Comisión de las Naciones Unidas sobre el desarrollo sostenible fue reemplazada por un foro político de alto nivel, que provee lineamientos y recomendaciones en materia de desarrollo sostenible.
+        p.mb-5 Luego de la adopción de esta Agenda 2030 en Colombia se produjo la adopción de otros instrumentos normativos, los cuales se pueden ver a continuación:
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta-avatar
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')

@@ -10,7 +10,7 @@
       .col-12.bg01
         .row
           .col-lg-6.p-5
-            p.mb-0 Actualmente lasPara que una organización sea considerada sostenible es necesario que integre en cada uno de sus procesos, componentes sociales, económicos y ambientales, además de esto, y de acuerdo con la evolución del concepto de sostenibilidad y las dimensiones de la Agenda 2030, se hace necesaria la adopción de decisiones conscientes respecto a los impactos positivos y negativos que pueden afectar el desarrollo de procesos, tanto internos como externos, dentro de un entorno específico.
+            p.mb-0 Para que una organización sea considerada sostenible es necesario que integre en cada uno de sus procesos, componentes sociales, económicos y ambientales, además de esto, y de acuerdo con la evolución del concepto de sostenibilidad y las dimensiones de la Agenda 2030, se hace necesaria la adopción de decisiones conscientes respecto a los impactos positivos y negativos que pueden afectar el desarrollo de procesos, tanto internos como externos, dentro de un entorno específico.
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
         figure
@@ -203,7 +203,7 @@
                   p #[b Estratégicos]
                   p Permiten definir y desplegar las estrategias y objetivos de la organización.
                   p Intervienen en la visión de la organización.
-                  p.mb-0 Los procesos estratégicos pueden ser: estudios de mercado, planificación y seguimiento de objetivos, revisión del sistema,vigilancia tecnológica, evaluación de la satisfacción del cliente, marketing estratégico.
+                  p.mb-0 Los procesos estratégicos pueden ser: estudios de mercado, planificación y seguimiento de objetivos, revisión del sistema,vigilancia tecnológica, evaluación de la satisfacción del cliente, <em>marketing</em> estratégico.
                 .col.p-4.hr
                   p #[b Claves]
                   p Permiten añadir valor al cliente o inciden directamente en su satisfacción o insatisfacción.
@@ -216,6 +216,7 @@
                   p.mb-0 Los procesos de apoyo están relacionados con requisitos de las normas que establecen modelos de gestión como control de la documentación, auditorias internas.
                 .col-12
                   p.mb-0.text-end Nota: SENA (2022).
+    p Teniendo en cuenta lo anterior, resulta fundamental que toda organización establezca un mapa de procesos, pues este va a permitir identificar y gestionar de manera sistemática cada una de las tareas que se desarrollan dentro de la misma, además que va facilitar el seguimiento de cada proceso asegurando que este se lleve a cabo de manera efectiva y coordinada, lo que va a garantizar, de cierto modo, la satisfacción de todas las partes interesadas. 
     .row.align-items-center(data-aos="fade-right").mb-5
       .col-lg-2
         figure

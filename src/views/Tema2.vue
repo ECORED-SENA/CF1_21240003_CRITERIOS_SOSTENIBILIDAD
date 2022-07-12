@@ -8,7 +8,7 @@
       h1 Análisis de materialidad socio ambiental
     .row.bg21
       .col-12.px-5
-        p.mb-5 Según el Global Reporting Initiative, (2013), en el campo de la sostenibilidad, el término de materialidad representa:
+        p.mb-5 Según el <em>Global Reporting Initiative</em>, (2013), en el campo de la sostenibilidad, el término de materialidad representa:
         .row.justify-content-center.mb-5
           .col-lg-10
             img.mb-3(src='@/assets/curso/tema1/img31.svg')
@@ -31,17 +31,17 @@
           .tarjeta.color-secundario.p-4(titulo="1. Determinación:")
             .row.align-items-center.p-4
               .col-12
-                h4 1. Determinación:
+                h4 1. Determinación
                 p.mb-3 No existe una forma única para determinar la materialidad socio ambiental en términos de sostenibilidad de una organización, sin embargo, su determinación puede ser considerada como un gran un desafío porque en esa articulación sistemática del modelo de negocio con los aspectos sociales y ambientales y los grupos de interés de mayor influencia en la organización, se deben incorporar y priorizar las opiniones de las partes interesadas, involucrar a la alta dirección, extender la evaluación de la materialidad a lo largo de la cadena de valor y replantear la relación naturaleza , producción y desarrollo. 
           .tarjeta.color-secundario.p-4(titulo="2. Identificación:")
             .row.align-items-center.p-4
               .col-12
-                h4 2. Identificación:
+                h4 2. Identificación
                 p.mb-3 La combinación de la información sobre la empresa, su modelo de negocio, la cadena de valor, el ciclo de vida, su modelo de gobernanza, el mapa de las partes interesadas y la identificación de sus principales impactos y riesgos, permiten comparar y priorizar aquellos asuntos de mayor impacto para la continuidad del negocio. Es vital identificar aspectos de interés para el sector en el cual se desempeña la organización, así como las particularidades de la zona sociodemográfica en la cual desarrolla sus operaciones.
           .tarjeta.color-secundario.p-4(titulo="3. Priorización:")
             .row.align-items-center.p-4
               .col-12
-                h4 3. Priorización:
+                h4 3. Priorización
                 p.mb-3 Los modelos de materialidad recomiendan herramientas y criterios que facilitan el levantamiento de la información fundamental para priorizar los asuntos ambientales y sociales de cada caso en particular. Una vez identificados, los asuntos materiales deben ser priorizados de acuerdo con las expectativas e intereses de los grupos de interés, no deberán ser más de 10, sin embargo, para iniciar, es clave identificar aquellos que son muy relevantes (idealmente entre 1 y 3), que serán el punto de partida para focalizar la Estrategia de Sostenibilidad Corporativa (ESC).
         Separador
     #t_2_1
@@ -244,6 +244,7 @@
               img(src='@/assets/curso/tema2/img26.svg', style="width: 120px").m-auto
           .col-12.bg12.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
+              h4.mb-0.text-center Aspecto
               p.mb-0.text-center Elemento de las actividades, productos o servicios de una organización que pueden interactuar con el medio ambiente.
       .col-lg.m-2
         .row
@@ -262,7 +263,7 @@
           .col-12.bg14.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
               h4.text-center.mt-4 Causa
-              h4.text-center Aspecto
+              h4.text-center Impacto
       .col-lg.m-2
         .row
           .col-12
@@ -270,6 +271,7 @@
               img(src='@/assets/curso/tema2/img32.svg', style="width: 135px").m-auto
           .col-12.bg15.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
+              h4.mb-0.text-center Impacto
               p.mb-0.text-center Cualquier cambio en el medio ambiente, sea adverso o beneficioso, como resultado total o parcial de los aspectos ambientales.
     .row.mb-2.align-items-center
       .col-lg-3.bg11.p-3.mb-5
@@ -284,32 +286,32 @@
           .tarjeta.color-acento-botones.p-3(x="36%" y="63%" numero="1")
             figure.fig-position1
               img(src='@/assets/curso/tema2/img37.svg', style="width: 35px")
-            h5.mb-2 Impacto acumulativo: 
+            h5.mb-2 Impacto acumulativo 
             p.text-small Impacto ambiental que resulta de efectos sucesivos, incrementales, y/o combinados de proyectos, obras o actividades cuando se suma a otros impactos existentes, planeados y/o futuros razonablemente anticipados. Para efectos prácticos, la identificación, análisis y manejo de los impactos acumulativos se deben orientar a aquellos que sean reconocidos como significativos, que se manifiestan en diversas escalas espacio - temporales.
           .tarjeta.color-acento-botones.p-3(x="65%" y="12%" numero="2")
             figure.fig-position1
               img(src='@/assets/curso/tema2/img38.svg', style="width: 35px")
-            h5.mb-2 Impacto continuo o periódico: 
+            h5.mb-2 Impacto continuo o periódico 
             p.text-small Impacto ambiental que depende del período en que se manifieste.
           .tarjeta.color-acento-botones.p-3(x="17%" y="38%" numero="3")
             figure.fig-position1
               img(src='@/assets/curso/tema2/img39.svg', style="width: 35px")
-            h5.mb-2 Impacto residual:
+            h5.mb-2 Impacto residual
             p.text-small Impacto cuyos efectos persisten en el ambiente, luego de aplicadas las medidas de prevención, mitigación y corrección, razón por la cual se deben aplicar medidas de compensación.
           .tarjeta.color-acento-botones.p-3(x="75%" y="63%" numero="4")
             figure.fig-position1
               img(src='@/assets/curso/tema2/img40.svg', style="width: 35px")
-            h5.mb-2 Impacto reversible o irreversible: 
-            p.text-small impacto ambiental que depende de la posibilidad de regresar a las condiciones originales.
+            h5.mb-2 Impacto reversible o irreversible 
+            p.text-small Impacto ambiental que depende de la posibilidad de regresar a las condiciones originales.
           .tarjeta.color-acento-botones.p-3(x="43%" y="14%" numero="5")
             figure.fig-position1
               img(src='@/assets/curso/tema2/img41.svg', style="width: 35px")
-            h5.mb-2 Impacto sinérgico: 
+            h5.mb-2 Impacto sinérgico 
             p.text-small Impacto que tiene origen en las interacciones complejas entre otros impactos, ya sean generados por un mismo proyecto o por varios. Un impacto sinérgico puede evidenciarse cuando el efecto combinado de dos impactos es mayor que su suma o cuando éstos ocasionan la aparición de un tercer impacto.
           .tarjeta.color-acento-botones.p-3(x="49%" y="83%" numero="6")
             figure.fig-position1
               img(src='@/assets/curso/tema2/img42.svg', style="width: 35px")
-            h5.mb-2 Impacto temporal o permanente: 
+            h5.mb-2 Impacto temporal o permanente 
             p.text-small El impacto es por un período determinado o es definitivo.
     .row.mb-2.align-items-center
       .col-lg-3.bg11.p-3.mb-5
@@ -322,8 +324,9 @@
           .col-lg-10
             p.mb-0(style="color: #9FBE37") #[b Figura 6].
             p.mb-4 #[em Métodos de identificación]
-            figure.mb-5
+            figure.mb-4
               img(data-aos="fade-right")(src='@/assets/curso/tema2/img35.svg').m-auto
+        p.mb-5 Para realizar la identificación y evaluación de impactos ambientales se pueden aplicar los siguientes métodos:
             .row.align-items-center.mb-4
               .col-lg-4.mb-4.mb-lg-0
                 figure
@@ -336,6 +339,7 @@
                   p Por ello, es necesario impulsar el control y la adopción de medidas preventivas, correctivas o compensatorias en aquellas actuaciones susceptibles de producir efectos negativos sobre el medio, afectando con ello a la calidad de vida de los ciudadanos.
             .row.align-items-center.mb-5
               .col-lg-6.mb-4.mb-lg-0
+                h4 Huellas ambientales: 
                 .dual-txt-deco3
                   p(style="position: relative; z-index: 1;") Estas huellas consolidan un análisis de potenciales impactos ambientales que se generan de forma directa o indirecta a lo largo del ciclo de vida de un producto, servicio u organización. 
                   p.mb-0 Esta medición ha concretado la metodología de Análisis de Ciclo de Vida (ACV), especificando los impactos que deben incluirse en este análisis; la huella ambiental define de manera concreta la ejecución del ACV y determina alcances y categorías de impacto para que los resultados puedan ser comparables entre sí.
@@ -417,11 +421,11 @@
                         figure
                           img(src='@/assets/curso/tema2/img52.svg').m-auto
                       .col-9.bg29
-                        p.mb-0 #[b.text-white Proceso y fabricación:]
+                        p.mb-0 #[b.text-white Distribución y transporte:]
                     .row
                       .col-12
                         .p-4.shadow
-                          p.mb-0 Son las actividades relacionadas con el transporte del producto o servicio desde la organización transformadora hasta el cliente meta.
+                          p.mb-0 son las actividades relacionadas con el transporte del producto o servicio desde la organización transformadora hasta el cliente meta.
           .tarjeta.color-terciario.p-3(x="65%" y="86%" numero="+")
             .row
               .col-auto
@@ -610,7 +614,7 @@
     .row.mb-5
       .col-lg-4.mb-4.mb-lg-0
         .cajon.color-acento-botones.p-4
-          p.mb-0 Según el #[b Global Reporting Initiative (GRI)], los temas materiales deben reflejar los impactos económicos, ambientales y sociales significativos para la organización y su relación con los aspectos sustancialmente relevantes y la toma de decisiones.
+          p.mb-0 Según el #[b #[em Global Reporting Initiative (GRI)]], los temas materiales deben reflejar los impactos económicos, ambientales y sociales significativos para la organización y su relación con los aspectos sustancialmente relevantes y la toma de decisiones.
       .col-lg-4.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img39.png' style="width: 450px").m-auto
