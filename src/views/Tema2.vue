@@ -425,7 +425,7 @@
                     .row
                       .col-12
                         .p-4.shadow
-                          p.mb-0 son las actividades relacionadas con el transporte del producto o servicio desde la organización transformadora hasta el cliente meta.
+                          p.mb-0 Son las actividades relacionadas con el transporte del producto o servicio desde la organización transformadora hasta el cliente meta.
           .tarjeta.color-terciario.p-3(x="65%" y="86%" numero="+")
             .row
               .col-auto
