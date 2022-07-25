@@ -25,14 +25,14 @@
           .col-lg-3(data-aos="fade-down")
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema1//img04.svg' alt='AvatarTop')
-              .tarjeta.bg02.shadow-sm
+                img.img85(src='@/assets/curso/tema1//img04.svg' alt='AvatarTop')
+              .tarjeta.bg02
                 .p-3
                   p.mb-0 Reconocer la importancia de la naturaleza para el bienestar humano.
           .col-lg-3(data-aos="fade-up")
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema1/img05.svg' alt='AvatarTop')
+                img.img85(src='@/assets/curso/tema1/img05.svg' alt='AvatarTop')
               .tarjeta.bg02.shadow-sm
                 .p-3
                   p.mb-0 Asegurar que la actividad económica mejore el sistema ambiental y la calidad de vida de todos, no sólo de unos pocos selectos.
@@ -46,7 +46,7 @@
           .col-lg-3(data-aos="fade-down")
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema1//img07.svg' alt='AvatarTop')
+                img.img85(src='@/assets/curso/tema1//img07.svg' alt='AvatarTop')
               .tarjeta.bg02.shadow-sm
                 .p-3
                   p.mb-0 Promover el máximo de reciclaje y reutilización.
@@ -54,21 +54,21 @@
           .col-lg-3(data-aos="fade-down")
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema1//img08.svg' alt='AvatarTop')
+                img.img85(src='@/assets/curso/tema1//img08.svg' alt='AvatarTop')
               .tarjeta.bg02.shadow-sm
                 .p-3
                   p.mb-0 Poner su confianza en el desarrollo e implantación de tecnologías limpias.
           .col-lg-3(data-aos="fade-down")
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema1//img09.svg' alt='AvatarTop')
+                img.img85(src='@/assets/curso/tema1//img09.svg' alt='AvatarTop')
               .tarjeta.bg02.shadow-sm
                 .p-3
                   p.mb-0 Restaurar los ecosistemas dañados.
           .col-lg-3(data-aos="fade-down")
             .tarjeta-avatar-b.mb-4
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema1//img10.svg' alt='AvatarTop')
+                img.img85(src='@/assets/curso/tema1//img10.svg' alt='AvatarTop')
               .tarjeta.bg02.shadow-sm
                 .p-3
                   p.mb-0 Promover la autosuficiencia regional.
@@ -89,7 +89,7 @@
     .row.bg18
       .col-12.px-5
         TabsA.color-secundario.mb-5
-          .tarjeta.color-secundario.p-4(titulo="Ambiente")
+          .tarjeta.color-secundario.p-4(titulo="Ambiente").shadow-sm.p-4
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Ambiente
@@ -100,7 +100,7 @@
                     figure
                       img.mb-3(src='@/assets/curso/tema1/img14.svg', style="width: 120px").m-auto.mb-4
                     p.text-center Toda organización debe evitar la alteración del medio ambiente, estableciendo acciones concretas para proteger los ecosistemas, lo que conlleva a la protección de la vida misma.
-          .tarjeta.color-secundario.p-4(titulo="Economía")
+          .tarjeta.color-secundario.p-4(titulo="Economía").shadow-sm.p-4
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Economía
@@ -111,7 +111,7 @@
                     figure
                       img.mb-3(src='@/assets/curso/tema1/img15.svg', style="width: 120px").m-auto.mb-4
                       p.text-center Se deben mejorar las condiciones de producción para de esa forma mejorar la condiciones de vida en todos los ámbitos de la vida del hombre. 
-          .tarjeta.color-secundario.p-4(titulo="Sociedad")
+          .tarjeta.color-secundario.p-4(titulo="Sociedad").shadow-sm.p-4
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Sociedad
@@ -122,7 +122,7 @@
                     figure
                       img.mb-3(src='@/assets/curso/tema1/img16.svg', style="width: 120px").m-auto.mb-4
                       p.text-center La sociedad se considerada como el centro fundamental para el desarrollo sostenible.
-          .tarjeta.color-secundario.p-4(titulo="Tecnología")
+          .tarjeta.color-secundario.p-4(titulo="Tecnología").shadow-sm.p-4
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Tecnología
@@ -133,7 +133,7 @@
                     figure
                       img.mb-3(src='@/assets/curso/tema1/img17.svg', style="width: 120px").m-auto.mb-4
                       p.text-center Se debe velar por la implementación de tecnologías limpias
-          .tarjeta.color-secundario.p-4(titulo="Importancia de los 4 componentes")
+          .tarjeta.color-secundario.p-4(titulo="Importancia de los 4 componentes").shadow-sm.p-4
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Importancia de los 4 componentes
@@ -171,24 +171,24 @@
               .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
                 .indicador--hover(v-if="indicadorTarjetaFlip")
                 .tarjeta-flip__contenedor
-                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img23.svg')})`}")
-                  .tarjeta-flip__contenido.p-4.p-xl-5
+                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img23.png')})`}")
+                  .tarjeta-flip__contenido.p-4.p-xl-2
                     h4.text-center Paso 1 
-                    p.mb-0 El primero relacionado con la entrada de materias primas y los recursos necesarios para su transformación, dentro de dichos recursos se pueden encontrar, la energía, el agua, la mano de obra, el capital de trabajo, entre otros.
+                    p.mb-0.text-center El primero relacionado con la entrada de materias primas y los recursos necesarios para su transformación, dentro de dichos recursos se pueden encontrar, la energía, el agua, la mano de obra, el capital de trabajo, entre otros.
             .col-lg-3.mb-4.mb-lg-0
               .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
                 .tarjeta-flip__contenedor
-                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img24.svg')})`}")
-                  .tarjeta-flip__contenido.p-4.p-xl-5
+                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img24.png')})`}")
+                  .tarjeta-flip__contenido.p-5.p-xl-2
                     h4.text-center Paso 2
-                    p.mb-0 El segundo relacionado con el proceso de transformación, aquí las materias primas y los recursos se combinan para convertirse en un producto o servicio.
+                    p.mb-0.text-center El segundo relacionado con el proceso de transformación, aquí las materias primas y los recursos se combinan para convertirse en un producto o servicio.
             .col-lg-3
               .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
                 .tarjeta-flip__contenedor
-                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img25.svg')})`}")
-                  .tarjeta-flip__contenido.p-4.p-xl-5
+                  .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/img25.png')})`}")
+                  .tarjeta-flip__contenido.p-5.p-xl-2
                     h4.text-center Paso 3
-                    p.mb-0 El tercero relacionado con la salida de productos y/o servicios terminados para entregar al mercado meta con el objetivo de satisfacer sus necesidades.
+                    p.mb-0.text-center El tercero relacionado con la salida de productos y/o servicios terminados para entregar al mercado meta con el objetivo de satisfacer sus necesidades.
     p En los sistemas de producción por lo general, se busca producir la mayor cantidad de bienes y servicios con el menor costo posible, y esto se consigue combinando de la forma más eficiente las materias primas, los equipos, tecnológicos, así como la mano de obra.
     p.mb-5 Dentro de una organización no todos los procesos tienen la misma influencia en la satisfacción de las partes interesadas, por ello es necesario clasificar los procesos según su impacto. Los procesos se pueden clasificar en estratégicos, claves y de apoyo, como se muestra en la figura 1:
     .row.justify-content-center.mb-4
@@ -217,11 +217,10 @@
                 .col-12
                   p.mb-0.text-end Nota: SENA (2022).
     p Teniendo en cuenta lo anterior, resulta fundamental que toda organización establezca un mapa de procesos, pues este va a permitir identificar y gestionar de manera sistemática cada una de las tareas que se desarrollan dentro de la misma, además que va facilitar el seguimiento de cada proceso asegurando que este se lleve a cabo de manera efectiva y coordinada, lo que va a garantizar, de cierto modo, la satisfacción de todas las partes interesadas. 
-    .row.align-items-center(data-aos="fade-right").mb-5
-      .col-lg-2
-        figure
+    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
+      .col-lg-2.mb-4
           img(src='@/assets/curso/tema1/img27.svg').m-auto
-      .col-lg-10
+      .col-lg-10.p-3
         h4.mb-0 Pero, ¿Cómo llevar a cabo este proceso?
         p.mb-0 En la siguiente figura 2 puede verse cómo se lleva a cabo la gestión sistémica de los procesos y sus interrelaciones: 
     .bg05
@@ -235,12 +234,11 @@
             img(data-aos="fade-right")(src='@/assets/curso/tema1/img29.svg').m-auto
     p.mb-5 Por otro lado, este enfoque permite que una organización planifique sus procesos y sus interacciones por medio de la incorporación del ciclo PHVA (planificar-hacer-verificar-actuar). El ciclo PHVA facilita que una organización tenga claridad de sus procesos y recursos y los gestionen adecuadamente, determinando del mismo modo oportunidades de mejora.
     .row.align-items-center(data-aos="fade-right").mb-5
-      .col-lg-2
-        figure
-          img.p-3(data-aos="fade-right")(src='@/assets/curso/tema1/img27.svg').m-auto
+      .col-lg-2.mb-4
+        img.p-3(data-aos="fade-right")(src='@/assets/curso/tema1/img27.svg').m-auto
       .col-lg-8
         h4 El ciclo PHVA 
-        p puede describirse como se muestra en la siguiente figura 3:
+        p Puede describirse como se muestra en la siguiente figura 3:
     .row.justify-content-center.mb-4
         .col-lg-10
           p(style="color: #9FBE37").mb-0 #[b Figura 3]. 

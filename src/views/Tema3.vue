@@ -42,59 +42,59 @@
               img(src='@/assets/curso/tema3/img3.png').m-auto
         p.mb-5 Luego de la adopción de esta Agenda 2030 en Colombia se produjo la adopción de otros instrumentos normativos, los cuales se pueden ver a continuación:
     SlyderF(columnas="col-lg-6 col-xl-4")
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.color-primario4.shadow-sm
           .p-4
             p.mb-0 1. Creación de la Comisión ODS
             p.mb-0 Decreto 280 de 2015
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.color-primario4.shadow-sm
           .p-4
             p.mb-0 2. Adopción de la Agenda 2030 y los ODS
             p.mb-0 Resolución A/RES/70/1
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.color-primario4.shadow-sm
           .p-4
             p.mb-0 3. Inclusión de los ODS en los Planes de Desarrollo Territorial
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.color-primario4.shadow-sm
           .p-4
             p.mb-0 4. Adopción del marco global de indicadores
             p.mb-0 Resolución A/RES/71/313
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.color-primario4.shadow-sm
           .p-4
             p.mb-0 5. CONPES 3918
             p.mb-0 Estrategia para la implementación de los ODS en Colombia
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.shadow-sm.color-primario4
           .p-4
             p.mb-0 6. CONPES 3934 
             p.mb-0 Política de crecimiento verde
       .tarjeta-avatar
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.shadow-sm.color-primario4
           .p-4
             p.mb-0 7. Estratégia Nacional de Economía circular
       .tarjeta-avatar
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.shadow-sm.color-primario4
           .p-4
             p.mb-0 8. CONPES 4004
             p.mb-0 Economía circular en la gestión de los servicios de agua potable y manejo de aguas residuales
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
-        .tarjeta.color-primario4
+        .tarjeta.shadow-sm.color-primario4
           .p-4
             p.mb-0 9. CONPES 4021
             p.mb-0 Política Nacional para el control de la deforestación y gestión sostenible de los bosques
-      .tarjeta-avatar
+      .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4

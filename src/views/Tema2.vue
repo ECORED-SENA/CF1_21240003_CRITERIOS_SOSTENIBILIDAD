@@ -21,24 +21,24 @@
         .row.align-items-center.justify-content-center(data-aos="fade-right")
           .col-lg-5
             img(src='@/assets/curso/tema2/img01.png')
-          .col-lg-6.p-5
+          .col-lg-5.p-3
             .dual-txt-deco
                 p.py-5(style="position: relative; z-index: 1;") Desde esta perspectiva, la materialidad socio ambiental es uno de los conceptos fundamentales utilizados como un modelo que permite determinar los aspectos claves a incluir en los informes de gestión (no financieros) y sobre los cuales desean obtener información los grupos de interés. Estos deben estar orientados a establecer la forma como la organización aporta (muchas veces de manera indirecta) al logro de los ODS (Objetivos de Desarrollo Sostenible).
     .row.bg18
       .col-12.px-5
         p.mb-5 Se puede revisar el siguiente recurso educativo para reconocer algunos aspectos que se deben tener en cuenta en el análisis de la materialidad socio-ambiental:
         TabsA.color-secundario
-          .tarjeta.color-secundario.p-4(titulo="1. Determinación:")
+          .tarjeta.color-secundario.p-4(titulo="1. Determinación:").shadow-sm.p-4
             .row.align-items-center.p-4
               .col-12
                 h4 1. Determinación
                 p.mb-3 No existe una forma única para determinar la materialidad socio ambiental en términos de sostenibilidad de una organización, sin embargo, su determinación puede ser considerada como un gran un desafío porque en esa articulación sistemática del modelo de negocio con los aspectos sociales y ambientales y los grupos de interés de mayor influencia en la organización, se deben incorporar y priorizar las opiniones de las partes interesadas, involucrar a la alta dirección, extender la evaluación de la materialidad a lo largo de la cadena de valor y replantear la relación naturaleza , producción y desarrollo. 
-          .tarjeta.color-secundario.p-4(titulo="2. Identificación:")
+          .tarjeta.color-secundario.p-4(titulo="2. Identificación:").shadow-sm.p-4
             .row.align-items-center.p-4
               .col-12
                 h4 2. Identificación
                 p.mb-3 La combinación de la información sobre la empresa, su modelo de negocio, la cadena de valor, el ciclo de vida, su modelo de gobernanza, el mapa de las partes interesadas y la identificación de sus principales impactos y riesgos, permiten comparar y priorizar aquellos asuntos de mayor impacto para la continuidad del negocio. Es vital identificar aspectos de interés para el sector en el cual se desempeña la organización, así como las particularidades de la zona sociodemográfica en la cual desarrolla sus operaciones.
-          .tarjeta.color-secundario.p-4(titulo="3. Priorización:")
+          .tarjeta.color-secundario.p-4(titulo="3. Priorización:").shadow-sm.p-4
             .row.align-items-center.p-4
               .col-12
                 h4 3. Priorización
@@ -64,23 +64,23 @@
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img04.svg')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
+            .tarjeta-flip__contenido.p-5.p-xl-5
               h4.text-center.mt-5 Creación de valor
-              p Los beneficios que se aportan a los clientes al solucionar un problema.
+              p.text-center Los beneficios que se aportan a los clientes al solucionar un problema.
       .col-lg-4.mb-4.mb-lg-0
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img05.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4.text-center.mt-5 Clientes
-              p Concentración de la oferta en un grupo o segmento de clientes para poder ofrecer la propuesta de valor más adecuada para ellos.
+              p.text-center Concentración de la oferta en un grupo o segmento de clientes para poder ofrecer la propuesta de valor más adecuada para ellos.
       .col-lg-4
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img06.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
               h4.text-center.mt-5 Rentabilidad
-              p Creación de valor  para obtener ingresos que sean mayores a los gastos para que el negocio sea viable.
+              p.text-center Creación de valor  para obtener ingresos que sean mayores a los gastos para que el negocio sea viable.
     p El modelo de negocio se puede describir a través de un método simplificado dividido en una parte lógica (sobre la eficiencia) y una parte emotiva (sobre la generación de valor) y compuesto por nueve bloques básicos (mercado meta, propuesta de valor, canales, relación con el consumidor, flujo de ingresos, recursos clave, actividades clave, socios clave y estructura de costos), que muestran de forma lógica como una empresa planea la forma de generar dinero. 
     p.mb-5 Este método es llamado método Canvas que fue desarrollado en 2011 por Alexander Osterwalder e Yves Pigneur, permite describir de forma simplificada los elementos e interacciones que ha elegido la organización para crear, entregar e intercambiar valor, que en otras palabras se puede definir como una herramienta de mapeo general de la empresa en la que se puede identificar la estructura de la organización y validar si la propuesta de valor es única o autentica (ver figura 4).
     .row.bg22
@@ -150,7 +150,7 @@
           .col-12.col-md-1.d-flex.justify-content-center.align-items-center.p-2
             h1.tn.bgn.mb-0 6
           .col-12.col-md-2.d-flex.justify-content-center.align-items-center
-            img(data-aos="fade-right")(src='@/assets/curso/tema2/img17.svg', style="width: 90px").m-auto
+            img(data-aos="fade-right")(src='@/assets/curso/tema2/img67.svg', style="width: 90px").m-auto
           .col-12.col-md-9.p-3
             h4 Recursos clave
             p.mb-0 Descripción de los elementos más importantes que se requieren para que el modelo de negocios funcione.
@@ -160,7 +160,7 @@
           .col-12.col-md-1.d-flex.justify-content-center.align-items-center.p-2
             h1.tn.bgn.mb-0 7
           .col-12.col-md-2.d-flex.justify-content-center.align-items-center
-            img(data-aos="fade-right")(src='@/assets/curso/tema2/img17.svg', style="width: 90px").m-auto
+            img(data-aos="fade-right")(src='@/assets/curso/tema2/img68.svg', style="width: 90px").m-auto
           .col-12.col-md-9.p-3
             h4 Actividades clave
             p.mb-0 Descripción de las acciones más importantes que se requieren para que el modelo de negocios funcione.
@@ -170,7 +170,7 @@
           .col-12.col-md-1.d-flex.justify-content-center.align-items-center.p-2
             h1.tn.bgn.mb-0 8
           .col-12.col-md-2.d-flex.justify-content-center.align-items-center
-            img(data-aos="fade-right")(src='@/assets/curso/tema2/img17.svg', style="width: 90px").m-auto
+            img(data-aos="fade-right")(src='@/assets/curso/tema2/img69.svg', style="width: 90px").m-auto
           .col-12.col-md-9.p-3
             h4 Socios clave
             p.mb-0 Descripción de las alianzas más importantes que se requieren para que el modelo de negocios funcione.
@@ -180,7 +180,7 @@
           .col-12.col-md-1.d-flex.justify-content-center.align-items-center.p-2
             h1.tn.bgn.mb-0 9
           .col-12.col-md-2.d-flex.justify-content-center.align-items-center
-            img(data-aos="fade-right")(src='@/assets/curso/tema2/img17.svg', style="width: 90px").m-auto
+            img(data-aos="fade-right")(src='@/assets/curso/tema2/img70.svg', style="width: 90px").m-auto
           .col-12.col-md-9.p-3
             h4 Estructura de costos
             p.mb-0 Descripción de los costos en los que se incurren para operar el modelo de negocio.
@@ -241,7 +241,7 @@
         .row
           .col-12
             figure
-              img(src='@/assets/curso/tema2/img26.svg', style="width: 120px").m-auto
+              img(src='@/assets/curso/tema2/img26.svg', style="width: 90px").m-auto
           .col-12.bg12.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
               h4.mb-0.text-center Aspecto
@@ -250,7 +250,7 @@
         .row
           .col-12
             figure
-              img(src='@/assets/curso/tema2/img28.svg', style="width: 135px").m-auto
+              img(src='@/assets/curso/tema2/img28.svg', style="width: 105px").m-auto
           .col-12.bg13.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
               h4.text-center.mt-4 Causa
@@ -259,7 +259,7 @@
         .row
           .col-12
             figure
-              img(src='@/assets/curso/tema2/img30.svg', style="width: 135px").m-auto
+              img(src='@/assets/curso/tema2/img30.svg', style="width: 105px").m-auto
           .col-12.bg14.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
               h4.text-center.mt-4 Causa
@@ -268,7 +268,7 @@
         .row
           .col-12
             figure
-              img(src='@/assets/curso/tema2/img32.svg', style="width: 135px").m-auto
+              img(src='@/assets/curso/tema2/img32.svg', style="width: 105px").m-auto
           .col-12.bg15.pb-3
             .p-3.bg-white.shadow-sm(style="height: 180px")
               h4.mb-0.text-center Impacto
@@ -327,30 +327,33 @@
             figure.mb-4
               img(data-aos="fade-right")(src='@/assets/curso/tema2/img35.svg').m-auto
         p.mb-5 Para realizar la identificación y evaluación de impactos ambientales se pueden aplicar los siguientes métodos:
-            .row.align-items-center.mb-4
-              .col-lg-4.mb-4.mb-lg-0
-                figure
-                  img(src='@/assets/curso/tema2/img36.png' style="width: 300px").m-auto
-              .col-lg-8
-                p #[b Evaluación de impactos ambientales (EIA):]
-                .dual-txt-deco3
-                  p(style="position: relative; z-index: 1;") Es el procedimiento que incluye estudios, informes técnicos y consultas que permiten estimar las consecuencias que un determinado proyecto, instalación o actividad causa sobre el medio ambiente. Se trata de un análisis a partir del cual se puede aprobar o rechazar un proyecto, en el marco de los efectos ambientales.
-                  p #[b #[u La E.I.A].] constituye una de las herramientas más útiles para la protección ambiental, ya que incorpora variables sociales, ambientales y económicas. También se entiende como un proceso de análisis que anticipa los futuros efectos ambientales negativos y positivos para determinadas acciones, y permite seleccionar alternativas que disminuyan los impactos.
-                  p Por ello, es necesario impulsar el control y la adopción de medidas preventivas, correctivas o compensatorias en aquellas actuaciones susceptibles de producir efectos negativos sobre el medio, afectando con ello a la calidad de vida de los ciudadanos.
-            .row.align-items-center.mb-5
-              .col-lg-6.mb-4.mb-lg-0
-                h4 Huellas ambientales: 
-                .dual-txt-deco3
-                  p(style="position: relative; z-index: 1;") Estas huellas consolidan un análisis de potenciales impactos ambientales que se generan de forma directa o indirecta a lo largo del ciclo de vida de un producto, servicio u organización. 
-                  p.mb-0 Esta medición ha concretado la metodología de Análisis de Ciclo de Vida (ACV), especificando los impactos que deben incluirse en este análisis; la huella ambiental define de manera concreta la ejecución del ACV y determina alcances y categorías de impacto para que los resultados puedan ser comparables entre sí.
-              .col-lg-6
-                figure
-                  img(src='@/assets/curso/tema2/img37.png' style="width: 450px").m-auto
-            p.mb-5 Dentro de la huella ambiental se consideran un máximo de 14 tipos diferentes de impactos ambientales, los cuales puedes observar en la siguiente figura 7.
-            p.mb-0(style="color: #9FBE37") #[b Figura 7].
-            p.mb-4 #[em Tipos de impactos ambientales]
-            figure
-              img(src='@/assets/curso/tema2/img44.svg').m-auto
+          .row.justify-contente-center.align-items-center.mb-4
+            .col-lg-10
+              .row 
+                .col-lg-4.mb-4.mb-lg-0.p-5.d-flex.align-items-center
+                  figure
+                    img(src='@/assets/curso/tema2/img36.png' style="width: 300px").m-auto
+                .col-lg-8.p-3
+                  p #[b Evaluación de impactos ambientales (EIA):]
+                  .dual-txt-deco3
+                    p(style="position: relative; z-index: 1;") Es el procedimiento que incluye estudios, informes técnicos y consultas que permiten estimar las consecuencias que un determinado proyecto, instalación o actividad causa sobre el medio ambiente. Se trata de un análisis a partir del cual se puede aprobar o rechazar un proyecto, en el marco de los efectos ambientales.
+                    p #[b #[u La E.I.A].] constituye una de las herramientas más útiles para la protección ambiental, ya que incorpora variables sociales, ambientales y económicas. También se entiende como un proceso de análisis que anticipa los futuros efectos ambientales negativos y positivos para determinadas acciones, y permite seleccionar alternativas que disminuyan los impactos.
+                    p Por ello, es necesario impulsar el control y la adopción de medidas preventivas, correctivas o compensatorias en aquellas actuaciones susceptibles de producir efectos negativos sobre el medio, afectando con ello a la calidad de vida de los ciudadanos.
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-5.mb-4.mb-lg-0
+          h4 Huellas ambientales: 
+          .dual-txt-deco3
+            p(style="position: relative; z-index: 1;") Estas huellas consolidan un análisis de potenciales impactos ambientales que se generan de forma directa o indirecta a lo largo del ciclo de vida de un producto, servicio u organización. 
+            p.mb-0 Esta medición ha concretado la metodología de Análisis de Ciclo de Vida (ACV), especificando los impactos que deben incluirse en este análisis; la huella ambiental define de manera concreta la ejecución del ACV y determina alcances y categorías de impacto para que los resultados puedan ser comparables entre sí.
+        .col-lg-5
+          figure
+            img.mb-5(src='@/assets/curso/tema2/img37.png' style="width: 450px").m-auto
+        .col-lg-10
+          p.mb-5 Dentro de la huella ambiental se consideran un máximo de 14 tipos diferentes de impactos ambientales, los cuales puedes observar en la siguiente figura 7.
+          p.mb-0(style="color: #9FBE37") #[b Figura 7].
+          p.mb-4 #[em Tipos de impactos ambientales]
+          figure
+            img(src='@/assets/curso/tema2/img44.svg').m-auto
     .row.justify-content-center.mb-5
       .col-lg-10
         p.mb-4 #[b Análisis del Ciclo de Vida (ACV):]
@@ -508,18 +511,18 @@
                       p Contempla todos los factores relacionados con el estilo de vida y su impacto en el entorno ambiental. 
                       p.mb-0 Es la forma de medir el impacto que la humanidad ejerce sobre el planeta.
               .col-10.col-lg.mb-4.mb-lg-0
-                .tarjeta.tarjeta-flip.color-primario2(@mouseover="indicadorTarjetaFlip = false")
-                  .indicador--hover(v-if="indicadorTarjetaFlip")
-                  .tarjeta-flip__contenedor
-                    .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img60.svg')})`}")
-                    .tarjeta-flip__contenido.p-4
-                      h4 HUELLA HÍDRICA
-                      p Es el volumen total de agua dulce usada para producir los bienes y servicios en una empresa, o consumidos por un individuo u organización. Este indicador fue desarrollado por Arjen Hoeskstra en 2002.
-              .col-10.col-lg
                 .tarjeta.tarjeta-flip.color-primario3(@mouseover="indicadorTarjetaFlip = false")
                   .indicador--hover(v-if="indicadorTarjetaFlip")
                   .tarjeta-flip__contenedor
                     .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img61.svg')})`}")
+                    .tarjeta-flip__contenido.p-4
+                      h4 HUELLA HÍDRICA
+                      p Es el volumen total de agua dulce usada para producir los bienes y servicios en una empresa, o consumidos por un individuo u organización. Este indicador fue desarrollado por Arjen Hoeskstra en 2002.
+              .col-10.col-lg
+                .tarjeta.tarjeta-flip.color-primario2(@mouseover="indicadorTarjetaFlip = false")
+                  .indicador--hover(v-if="indicadorTarjetaFlip")
+                  .tarjeta-flip__contenedor
+                    .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/img60.svg')})`}")
                     .tarjeta-flip__contenido.p-4
                       h4 HUELLA DE CARBONO
                       p Considera las emisiones de CO2, cuenta todos los gases de efecto invernadero (GEI) y se emplea para determinar el impacto de las actividades humanas en el medio ambiente.

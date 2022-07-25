@@ -8,7 +8,7 @@
       h1 Estrategias y herramientas para la sostenibilidad
     p.mb-5 Los conocimientos y capacidad de gestión son elementos clave para desarrollar una estrategia de sostenibilidad, además existen diferentes herramientas para llevar a cabo esta gestión, para conocerlas se debe revisar con detenimiento el recurso educativo aquí propuesto:
     TabsA.color-secundario
-      .tarjeta.color-secundario.p-4(titulo="Alianzas estratégicas")
+      .tarjeta.color-secundario.p-4(titulo="Alianzas estratégicas").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Alianzas estratégicas]
@@ -18,7 +18,7 @@
                   img(src='@/assets/curso/tema4/img1.svg').m-auto
               .col
                 p.mb-0 Consiste en la integración de  todos los actores: comunidad, gobierno central, gobierno local, empresas del sector, cooperación internacional, organizaciones gubernamentales, organizaciones no gubernamentales y del tercer sector, entre otras. No siempre se relacionan con un aporte económico, muchas veces estas alianzas pueden ir mucho más allá, abordar temas de valor para las dos partes que les permitan avanzar hacia el logro de sus propios objetivos.
-      .tarjeta.color-secundario.p-4(titulo="Gestión de riesgos")
+      .tarjeta.color-secundario.p-4(titulo="Gestión de riesgos").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Gestión de riesgos]
@@ -28,7 +28,7 @@
                   img(src='@/assets/curso/tema4/img2.svg').m-auto
               .col
                 p.mb-0 Las compañías que desarrollan proyectos sostenibles, especialistas en el tema, pueden aportar recursos basados en el conocimiento, esto permite mitigar los impactos negativos para ellos y otras organizaciones y sus diferentes grupos de interés; los riesgos deben cubrir aspectos económicos, ambientales y sociales.
-      .tarjeta.color-secundario.p-4(titulo="Desarrollo de capacidades")
+      .tarjeta.color-secundario.p-4(titulo="Desarrollo de capacidades").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Desarrollo de capacidades]
@@ -38,7 +38,7 @@
                   img(src='@/assets/curso/tema4/img3.svg').m-auto
               .col
                 p.mb-0 Las organizaciones deben contribuir a desarrollar procesos de aprendizaje en la gestión sostenible de sus proyectos y de sus propios objetivos; la meta será mitigar las prácticas obsoletas o inadecuadas y migrar a unas que contemplen aspectos más allá de la productividad, el rendimiento económico o la generación exclusiva de valor para los accionistas, deben desarrollar aspectos ligados a temas como la transparencia, los derechos humanos, el manejo correcto de los residuos, el control del impacto ambiental, brindar prácticas laborales justas, entre otras.
-      .tarjeta.color-secundario.p-4(titulo="Reportes de sostenibilidad")
+      .tarjeta.color-secundario.p-4(titulo="Reportes de sostenibilidad").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Reportes de sostenibilidad]
@@ -48,7 +48,7 @@
                   img(src='@/assets/curso/tema4/img4.svg').m-auto
               .col
                 p.mb-0 Es una herramienta que le permite a las empresas comunicar públicamente sus resultados sociales, ambientales y económicos, no solo es un ejercicio de transparencia, el reporte es empleado como un mecanismo de gestión y mejora continua, dado que anualmente se deben reportar avances versus la gestión reportada en el periodo anterior. Este informe genera confianza en los clientes, el auspicio de nuevas compañías y socios potenciales que ofrezcan recursos para continuar con los planes por un futuro sostenible.
-      .tarjeta.color-secundario.p-4(titulo="Conclusión")
+      .tarjeta.color-secundario.p-4(titulo="Conclusión").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Conclusión]
@@ -59,7 +59,7 @@
               .col
                 p.mb-0 Todas estas herramientas permiten establecer las bases para las estrategias que combatan la pérdida de la biodiversidad, la contaminación y otras problemáticas actuales. Las empresas de hoy tienen una mayor sensibilidad frente a estas temáticas, no solo por considerarlas estratégicas, sino porque hoy el sector financiero reconoce y motiva el cambio y eso está directamente relacionado con la sostenibilidad económica del negocio.
     Separador
-    #t_2_1
+    #t_4_1
     .titulo-segundo.color-acento-contenido
       h2 4.1 Economía circular y producción sostenible
     .row.bg53
@@ -142,7 +142,7 @@
                       i.fas.fa-check(style="color: #9FBE37")
                       | Aumentar la competitividad de la actividad empresarial.
         Separador
-    #t_2_2
+    #t_4_2
     .titulo-segundo.color-acento-contenido
       h2 4.2 Economía circular y producción sostenible
     p.mb-4 Las ecoetiquetas y las declaraciones ambientales son utilizadas a nivel mundial con el objetivo que un producto o servicio pueda identificarse y distinguirse como un producto o servicio que ha considerado dentro de su proceso de ideación, fabricación, comercialización, uso y disposición final (reciclaje, reúso o eliminación) criterios ambientales validados y certificados por un tercero.
@@ -219,7 +219,7 @@
     .row.bg53
       .col-12.px-5
         .row.justify-content-center
-          .col-lg-3.p-4.bg48
+          .col-lg-3.p-4.bg48.d-flex.align-items-center
             figure
               img(src='@/assets/curso/tema4/img9.svg', style="width: 150px").m-auto
           .col-lg-7.p-4.bg49
@@ -242,27 +242,36 @@
               li 
                 i.fas.fa-check(style="color: #9FBE37")
                 | Deben proveer información sobre los aspectos ambientales a que se refieren.
-        Separador
-        #t_2_3
-        .titulo-segundo.color-acento-contenido
-          h2 4.3 Modelos de negocio sostenible (Empresas B, negocios verdes)
+    Separador
+    #t_4_3
+    .titulo-segundo.color-acento-contenido
+      h2 4.3 Modelos de negocio sostenible (Empresas B, negocios verdes)
     p Las empresas categorizadas bajo el modelo de Empresa B asumen un compromiso de mejora continua y ponen en el centro de su modelo de negocio, el propósito y compromiso empresarial socio ambiental. 
     p.mb-5 Estas empresas miden y analizan y revisan las cinco áreas más relevantes de su empresa: gobierno, trabajadores, clientes, comunidad y medio ambiente, esto con el propósito de identificar las oportunidades y los posibles puntos de mejora que les permitan ser una agente de cambio en la economía, protegiendo la misión y potenciando el triple impacto.
-    .row.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-auto.bg11.p-3.m-3
         h4.text-white.text-center.mb-0 Cinco áreas más relevantes para una empresa B
     p.mb-5 Los requisitos para someterse a un proceso de evaluación y certificación como empresa B los puede encontrar en el siguiente recurso educativo:
-    ImagenInfograficaB.color-primario
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/tema4/img10.svg')
-      div(x="15%" y="33%" tooltip="Llevar más de 12 meses de operaciones." numero="1")
-      div(x="46%" y="40%" tooltip="Operar en un mercado competitivo." numero="2")
-      div(x="62%" y="46%" tooltip="Requerimiento legal de empresa B." numero="3")
-      div(x="75%" y="75%" tooltip="Entidad con fines de lucro." numero="4")
-      div(x="97%" y="25%" tooltip="Negocio completo y distinto." numero="5")
+
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-10
+        ImagenInfografica.color-primario.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/tema4/img10.svg')
+          .tarjeta.color-color-primario.p-3(x="15%" y="33%" numero="1")
+            p Llevar más de 12 meses de operaciones.
+          .tarjeta.color-color-primario.p-3(x="46%" y="40%" numero="2")
+            p Operar en un mercado competitivo.
+          .tarjeta.color-color-primario.p-3(x="62%" y="46%" numero="3")
+            p Requerimiento legal de empresa B.
+          .tarjeta.color-color-primario.p-3(x="75%" y="75%" numero="4")
+            p Entidad con fines de lucro.
+          .tarjeta.color-color-primario.p-3(x="97%" y="25%" numero="5")
+            p Negocio completo y distinto.
+
     Separador
-    #t_2_4
+    #t_4_4
     .titulo-segundo.color-acento-contenido
       h2 4.4 Responsabilidad social empresarial
     p.mb-4 La Responsabilidad Social Empresarial (RSE) es considerada como una nueva forma de ver los negocios y su gestión, ya que promueve que las organizaciones se comprometan a ejecutar sus procesos operacionales conforme a criterios sociales, ambientales y ecológicos con el fin de velar por la continuidad del negocio en el largo plazo y satisfacer las necesidades de las partes interesadas procurando el bienestar de propio y las generaciones futuras.
@@ -286,7 +295,7 @@
             .p-4
               p.mb-0 La Responsabilidad Social Empresarial se fundamenta principalmente sobre los valores corporativos de la organización y se debe evidenciar el compromiso a través de las políticas, actividades, planes y programas establecidos a lo largo de la cadena de valor, de no ser así, al momento de afrontar una crisis, eventualidad o cambio de dirección en la organización la responsabilidad social podría pasar a un segundo plano al no tener la conexión directa con los mandatos y la cultura de esta.
     Separador
-    #t_2_5
+    #t_4_5
     .titulo-segundo.color-acento-contenido
       h2 4.5 Indicadores ambientales
     .row.bg52
@@ -294,7 +303,7 @@
         .row.mt-4
           .col-lg-5.mb-4.mb-lg-0
             p Un indicador ambiental es una medida que puede ser de origen físico, químico, biológico, social o económico, que permite evaluar toda aquella información ambiental disponible, con el fin de reflejar las condiciones en las que se encuentra el medio ambiente o un factor ambiental particular, en un tiempo y en un lugar determinados.
-            .row.align-items-center.mb-4
+            .row.justify-content-center.align-items-center.mb-4
               .col-lg-auto.bg11.p-3.m-3
                 h4.text-white.text-center.mb-0 Indicadores ambientales
             p.ms-4 Los indicadores ambientales constituyen una herramienta para informar sobre el estado del medio ambiente, evaluar el desempeño de políticas, programas y proyectos ambientales. La importancia de los indicadores ambientales contribuye a que los principales actores y tomadores de decisiones, implementen medidas y acciones oportunas en la gestión ambiental en el ámbito nacional, regional y local.
