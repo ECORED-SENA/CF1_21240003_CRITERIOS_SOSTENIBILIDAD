@@ -68,7 +68,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.1',
             titulo:
-              'Entendimiento del modelo de negocio de una organización (método Canvas)',
+              'Entendimiento del modelo de negocio de una organización (Método Canvas)',
             hash: 't_2_1',
           },
           {
@@ -131,7 +131,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '4.3',
             titulo:
-              'Modelos de negocio sostenible (empresas B, negocios verdes)',
+              'Modelos de negocio sostenible (Empresas B, negocios verdes)',
             hash: 't_4_3',
           },
           {
@@ -405,7 +405,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Melina Tatiana Quintero Rodriguez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

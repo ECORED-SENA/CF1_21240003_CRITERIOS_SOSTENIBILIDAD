@@ -144,7 +144,7 @@
         Separador
     #t_4_2
     .titulo-segundo.color-acento-contenido
-      h2 4.2 Economía circular y producción sostenible
+      h2 4.2 Ecoetiquetas y declaraciones ambientales
     p.mb-4 Las ecoetiquetas y las declaraciones ambientales son utilizadas a nivel mundial con el objetivo que un producto o servicio pueda identificarse y distinguirse como un producto o servicio que ha considerado dentro de su proceso de ideación, fabricación, comercialización, uso y disposición final (reciclaje, reúso o eliminación) criterios ambientales validados y certificados por un tercero.
     .row.align-items-center.mb-5
       .col-lg-3.mb-4.mb-lg-0

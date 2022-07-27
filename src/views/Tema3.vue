@@ -24,7 +24,7 @@
     .row.bg18
       .col-12.px-5
         .dual-txt-deco7.mb-5
-          p(style="position: relative; z-index: 1;") El marco institucional más representativo para la nueva agenda del desarrollo global parte de la Conferencia de las Naciones Unidas sobre el Desarrollo Sostenible  que se realizó en Rio de Janeiro, Brasil en el año 2012, en la cual se adoptó el documento de resultados llamado “El futuro que queremos”, el cual reconoció la importancia y utilidad de desarrollar un conjunto de objetivos de desarrollo sostenible (ODS), basados en la Agenda 21, el Plan de Implementación de Johannesburgo y los Principios de Río que incorporan de forma equilibrada las tres dimensiones del desarrollo sostenible y sus interrelaciones, siendo coherentes con la agenda de las Naciones Unidas para el desarrollo posterior a 2015, adoptando así el concepto de ODS.
+          p(style="position: relative; z-index: 1;") El marco institucional más representativo para la nueva agenda del desarrollo global parte de la Conferencia de las Naciones Unidas sobre el Desarrollo Sostenible  que se realizó en Río de Janeiro, Brasil en el año 2012, en la cual se adoptó el documento de resultados llamado “El futuro que queremos”, el cual reconoció la importancia y utilidad de desarrollar un conjunto de objetivos de desarrollo sostenible (ODS), basados en la Agenda 21, el Plan de Implementación de Johannesburgo y los Principios de Río que incorporan de forma equilibrada las tres dimensiones del desarrollo sostenible y sus interrelaciones, siendo coherentes con la agenda de las Naciones Unidas para el desarrollo posterior a 2015, adoptando así el concepto de ODS.
         .row.mb-4
           .col-lg-5.mb-4.mb-lg-0
             figure

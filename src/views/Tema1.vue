@@ -18,7 +18,7 @@
       .col-lg-6
         .cajon.color-acento-contenido.p-5(data-aos="fade-right")
            p.mb-0 Cualquier tipo de organización debe tener claro su aporte frente a la construcción del territorio y su influencia frente al desarrollo de proyectos de alto impacto dentro del ámbito de la sostenibilidad, por ende, debe establecer acciones puntuales que apunten primero al bienestar humano y segundo que aporten a la equidad social y a la protección del medio ambiente. 
-    p.mb-5 Desde esta perspectiva, el desarrollo sostenible busca que al tomar decisiones organizacionales estas favorezcan la gestión y el desarrollo del medio ambiente con ética y responsabilidad social, por ende, para que un desarrollo sostenible sea considerado como tal debe cumplir con algunas características, a continuación, se podrá observar en detalle el cada una de ellas:
+    p.mb-5 Desde esta perspectiva, el desarrollo sostenible busca que al tomar decisiones organizacionales estas favorezcan la gestión y el desarrollo del medio ambiente con ética y responsabilidad social, por ende, para que un desarrollo sostenible sea considerado como tal debe cumplir con algunas características, a continuación, se podrá observar en detalle cada una de ellas:
     .row.bg17
       .col-12.px-3
         .row
@@ -121,12 +121,12 @@
                   .col-12.bg03.shadow-sm.p-4
                     figure
                       img.mb-3(src='@/assets/curso/tema1/img16.svg', style="width: 120px").m-auto.mb-4
-                      p.text-center La sociedad se considerada como el centro fundamental para el desarrollo sostenible.
+                      p.text-center La sociedad es considerada como el centro fundamental para el desarrollo sostenible.
           .tarjeta.color-secundario.p-4(titulo="Tecnología").shadow-sm.p-4
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Tecnología
-                p.mb-3 Ha permitido el mejoramiento de la calidad de vida del hombre, además del desarrollo de diferentes avances científicos que han beneficiado a la sociedad, sin embargo, se debe velar por el uso de tecnologías amigables con el medio ambiente, la idea es que las organizaciones adquieran nuevas tecnológicas que produzcan menos impacto ambiental y mejorar el rendimiento económico.Es aquí en donde surge el término de tecnologías limpias, consideradas como aquellas que al ser utilizadas no brindan un impacto negativo al medio ambiente, se basan en la sostenibilidad haciendo uso de recursos naturales y renovables.
+                p.mb-3 Ha permitido el mejoramiento de la calidad de vida del hombre, además del desarrollo de diferentes avances científicos que han beneficiado a la sociedad, sin embargo, se debe velar por el uso de tecnologías amigables con el medio ambiente, la idea es que las organizaciones adquieran nuevas tecnológicas que produzcan menos impacto ambiental y mejorar el rendimiento económico. Es aquí en donde surge el término de tecnologías limpias, consideradas como aquellas que al ser utilizadas no brindan un impacto negativo al medio ambiente, se basan en la sostenibilidad haciendo uso de recursos naturales y renovables.
               .col-lg-4
                 .row
                   .col-12.bg03.shadow-sm.p-4
@@ -137,7 +137,7 @@
             .row.align-items-center.p-2.p-lg-4
               .col-lg-8.mb-4.mb-lg-0
                 h4 Importancia de los 4 componentes
-                p.mb-3 Estos componentes resultan entonces fundamentales para la toma de decisiones en políticas de desarrollo, lo que significa que una organización que le apunte a la sostenibilidad debe tener presente las repercusiones en la sociedad, el ambiente y la economía, así como propiciar la adopción de decisiones conscientes con respecto a las sinergias y los efectos secundarios que genera su operación.Desde esta perspectiva, los responsables de la formulación de políticas deben asegurar que las intervenciones que se gestionen y desarrollen se lleven a cabo con bases tecnológicas y alianzas que permitan la movilización de los recursos de manera responsable.
+                p.mb-3 Estos componentes resultan entonces fundamentales para la toma de decisiones en políticas de desarrollo, lo que significa que una organización que le apunte a la sostenibilidad debe tener presente las repercusiones en la sociedad, el ambiente y la economía, así como propiciar la adopción de decisiones conscientes con respecto a las sinergias y los efectos secundarios que genera su operación. Desde esta perspectiva, los responsables de la formulación de políticas deben asegurar que las intervenciones que se gestionen y desarrollen se lleven a cabo con bases tecnológicas y alianzas que permitan la movilización de los recursos de manera responsable.
               .col-lg-4
                 .row
                   .col-12.bg03.shadow-sm.p-4

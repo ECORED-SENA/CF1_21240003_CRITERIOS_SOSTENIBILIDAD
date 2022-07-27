@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span(style="color: #161730") 2
-      h1 Análisis de materialidad socio ambiental
+      h1 Análisis de materialidad socioambiental
     .row.bg21
       .col-12.px-5
         p.mb-5 Según el <em>Global Reporting Initiative</em>, (2013), en el campo de la sostenibilidad, el término de materialidad representa:
@@ -23,7 +23,7 @@
             img(src='@/assets/curso/tema2/img01.png')
           .col-lg-5.p-3
             .dual-txt-deco
-                p.py-5(style="position: relative; z-index: 1;") Desde esta perspectiva, la materialidad socio ambiental es uno de los conceptos fundamentales utilizados como un modelo que permite determinar los aspectos claves a incluir en los informes de gestión (no financieros) y sobre los cuales desean obtener información los grupos de interés. Estos deben estar orientados a establecer la forma como la organización aporta (muchas veces de manera indirecta) al logro de los ODS (Objetivos de Desarrollo Sostenible).
+                p.py-5(style="position: relative; z-index: 1;") Desde esta perspectiva, la materialidad socioambiental es uno de los conceptos fundamentales utilizados como un modelo que permite determinar los aspectos claves a incluir en los informes de gestión (no financieros) y sobre los cuales desean obtener información los grupos de interés. Estos deben estar orientados a establecer la forma como la organización aporta (muchas veces de manera indirecta) al logro de los ODS (Objetivos de Desarrollo Sostenible).
     .row.bg18
       .col-12.px-5
         p.mb-5 Se puede revisar el siguiente recurso educativo para reconocer algunos aspectos que se deben tener en cuenta en el análisis de la materialidad socio-ambiental:
@@ -32,7 +32,7 @@
             .row.align-items-center.p-4
               .col-12
                 h4 1. Determinación
-                p.mb-3 No existe una forma única para determinar la materialidad socio ambiental en términos de sostenibilidad de una organización, sin embargo, su determinación puede ser considerada como un gran un desafío porque en esa articulación sistemática del modelo de negocio con los aspectos sociales y ambientales y los grupos de interés de mayor influencia en la organización, se deben incorporar y priorizar las opiniones de las partes interesadas, involucrar a la alta dirección, extender la evaluación de la materialidad a lo largo de la cadena de valor y replantear la relación naturaleza , producción y desarrollo. 
+                p.mb-3 No existe una forma única para determinar la materialidad socioambiental en términos de sostenibilidad de una organización, sin embargo, su determinación puede ser considerada como un gran un desafío porque en esa articulación sistemática del modelo de negocio con los aspectos sociales y ambientales y los grupos de interés de mayor influencia en la organización, se deben incorporar y priorizar las opiniones de las partes interesadas, involucrar a la alta dirección, extender la evaluación de la materialidad a lo largo de la cadena de valor y replantear la relación naturaleza, producción y desarrollo. 
           .tarjeta.color-secundario.p-4(titulo="2. Identificación:").shadow-sm.p-4
             .row.align-items-center.p-4
               .col-12
@@ -82,7 +82,7 @@
               h4.text-center.mt-5 Rentabilidad
               p.text-center Creación de valor  para obtener ingresos que sean mayores a los gastos para que el negocio sea viable.
     p El modelo de negocio se puede describir a través de un método simplificado dividido en una parte lógica (sobre la eficiencia) y una parte emotiva (sobre la generación de valor) y compuesto por nueve bloques básicos (mercado meta, propuesta de valor, canales, relación con el consumidor, flujo de ingresos, recursos clave, actividades clave, socios clave y estructura de costos), que muestran de forma lógica como una empresa planea la forma de generar dinero. 
-    p.mb-5 Este método es llamado método Canvas que fue desarrollado en 2011 por Alexander Osterwalder e Yves Pigneur, permite describir de forma simplificada los elementos e interacciones que ha elegido la organización para crear, entregar e intercambiar valor, que en otras palabras se puede definir como una herramienta de mapeo general de la empresa en la que se puede identificar la estructura de la organización y validar si la propuesta de valor es única o autentica (ver figura 4).
+    p.mb-5 Este método es llamado método Canvas que fue desarrollado en 2011 por Alexander Osterwalder e Yves Pigneur, permite describir de forma simplificada los elementos e interacciones que ha elegido la organización para crear, entregar e intercambiar valor, que en otras palabras se puede definir como una herramienta de mapeo general de la empresa en la que se puede identificar la estructura de la organización y validar si la propuesta de valor es única o auténtica (ver figura 4).
     .row.bg22
       .col-12.px-5
         .row
@@ -113,7 +113,7 @@
             img(data-aos="fade-right")(src='@/assets/curso/tema2/img11.svg', style="width: 90px").m-auto
           .col-12.col-md-9.p-3
             h4 Propuesta de valor
-            p.mb-0 Descripción del set de producción y/o servicios que crean valor para un segmento especifico de clientes.
+            p.mb-0 Descripción del set de producción y/o servicios que crean valor para un segmento específico de clientes.
     .row.justify-content-center.mb-2.p-3
       .col-12.col-md-10
         .row.bg06
@@ -206,13 +206,13 @@
           .col-lg-4.mb-5.mb-lg-0
             .cajon.color-primario.shadow-sm(data-aos="fade-right")
               .p-4
-                p.mb-0 Para que una empresa pueda realizar el análisis de la cadena de valor, debe tener identificado el modelo de negocio y los aspectos sociales y ambientales que interactúan constantemente con el día a día de la operación; para ello, pueden implementar un  modelo que está tomando fuerza y que permite dimensionar el negocio bajo una esfera de circularidad e integración socio ambiental.
+                p.mb-0 Para que una empresa pueda realizar el análisis de la cadena de valor, debe tener identificado el modelo de negocio y los aspectos sociales y ambientales que interactúan constantemente con el día a día de la operación; para ello, pueden implementar un  modelo que está tomando fuerza y que permite dimensionar el negocio bajo una esfera de circularidad e integración socioambiental.
           .col-lg-4.mb-5.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.png')(data-aos="fade-right")
           .col-lg-4
             .dual-txt-deco2
-              p(style="position: relative; z-index: 1;") La primera fuente de materialidad socio ambiental inicia con la identificación de los principales flujos de materiales y sus impactos ambientales a lo largo de la cadena de valor o ciclo de vida del producto, la evaluación de los impactos críticos se fundamenta en la identificación de los servicios ecosistémicos utilizados y la identificación de la contaminación generada en cada eslabón de la cadena; para ello, se deben identificar los volúmenes u órdenes de magnitud de los flujos de materiales y su posible contaminación.
+              p(style="position: relative; z-index: 1;") La primera fuente de materialidad socioambiental inicia con la identificación de los principales flujos de materiales y sus impactos ambientales a lo largo de la cadena de valor o ciclo de vida del producto, la evaluación de los impactos críticos se fundamenta en la identificación de los servicios ecosistémicos utilizados y la identificación de la contaminación generada en cada eslabón de la cadena; para ello, se deben identificar los volúmenes u órdenes de magnitud de los flujos de materiales y su posible contaminación.
         p Para el adecuado entendimiento de las entradas y salidas de cada uno de los eslabones de la cadena de la organización, a continuación, se presenta el ejemplo del diagrama básico para realizar esta identificación y análisis (ver figura 5): 
         .row.justify-content-center.mb-4
           .col-lg-12
@@ -231,7 +231,7 @@
           .col-lg-6
             .p-5
               p Actualmente las organizaciones se han visto obligadas a desarrollar acciones que impliquen el cuidado del medio ambiente y en respuesta a estas exigencias ven en la sostenibilidad ambiental la oportunidad para mejorar su comportamiento y desarrollar estrategias efectivas respecto a su responsabilidad social.
-              p.mb-0 Dada esta realidad, la identificación y evaluación de los impactos ambientales son parte fundamental para la determinación de la materialidad socio ambiental. Desde esta perspectiva, es importante entender lo que implica un impacto ambiental, sus tipos y métodos de identificación.
+              p.mb-0 Dada esta realidad, la identificación y evaluación de los impactos ambientales son parte fundamental para la determinación de la materialidad socioambiental. Desde esta perspectiva, es importante entender lo que implica un impacto ambiental, sus tipos y métodos de identificación.
     .row.align-items-center.mb-5
       .col-lg-4.bg11.p-3
         h4.text-white.text-center.mb-0 Aspecto e impacto ambiental: 
@@ -392,7 +392,7 @@
                     .row
                       .col-12
                         .p-4.shadow
-                          p.mb-0 Son las actividades necesarias para la producción relacionadas con la extracción de las materias primas , el uso de recursos (energía, agua, entre otros) y el transporte de estas a planta de producción.
+                          p.mb-0 Son las actividades necesarias para la producción relacionadas con la extracción de las materias primas, el uso de recursos (energía, agua, entre otros) y el transporte de estas a planta de producción.
           .tarjeta.color-terciario.p-3(x="58%" y="8%" numero="+")
             .row
               .col-auto
@@ -556,11 +556,14 @@
       .col-12.p-5
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/SnO4bjRghGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+  
+
     Separador
     #t_2_4
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.4 Partes interesadas: identificación, clasificación y priorización
+      h2 2.4 Partes interesadas: identificación, clasificación y priorización de partes interesadas
     p Los grupos de interés son esos individuos, grupos de individuos u organizaciones que afectan o podrían ser afectados por las actividades, productos o servicios y el desempeño asociado a una organización. 
     p.mb-5 No existe una única forma para identificar y clasificar las partes interesadas de interés, sin embargo, es necesario utilizar una metodología que considere los siguientes atributos, como puede observarse a continuación:
     .row.align-items-center.mb-5
