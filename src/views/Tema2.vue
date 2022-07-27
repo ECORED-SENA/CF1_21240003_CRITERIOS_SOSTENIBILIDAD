@@ -339,21 +339,21 @@
                     p(style="position: relative; z-index: 1;") Es el procedimiento que incluye estudios, informes técnicos y consultas que permiten estimar las consecuencias que un determinado proyecto, instalación o actividad causa sobre el medio ambiente. Se trata de un análisis a partir del cual se puede aprobar o rechazar un proyecto, en el marco de los efectos ambientales.
                     p #[b #[u La E.I.A].] constituye una de las herramientas más útiles para la protección ambiental, ya que incorpora variables sociales, ambientales y económicas. También se entiende como un proceso de análisis que anticipa los futuros efectos ambientales negativos y positivos para determinadas acciones, y permite seleccionar alternativas que disminuyan los impactos.
                     p Por ello, es necesario impulsar el control y la adopción de medidas preventivas, correctivas o compensatorias en aquellas actuaciones susceptibles de producir efectos negativos sobre el medio, afectando con ello a la calidad de vida de los ciudadanos.
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5.mb-4.mb-lg-0
-          h4 Huellas ambientales: 
-          .dual-txt-deco3
-            p(style="position: relative; z-index: 1;") Estas huellas consolidan un análisis de potenciales impactos ambientales que se generan de forma directa o indirecta a lo largo del ciclo de vida de un producto, servicio u organización. 
-            p.mb-0 Esta medición ha concretado la metodología de Análisis de Ciclo de Vida (ACV), especificando los impactos que deben incluirse en este análisis; la huella ambiental define de manera concreta la ejecución del ACV y determina alcances y categorías de impacto para que los resultados puedan ser comparables entre sí.
-        .col-lg-5
-          figure
-            img.mb-5(src='@/assets/curso/tema2/img37.png' style="width: 450px").m-auto
-        .col-lg-10
-          p.mb-5 Dentro de la huella ambiental se consideran un máximo de 14 tipos diferentes de impactos ambientales, los cuales puedes observar en la siguiente figura 7.
-          p.mb-0(style="color: #9FBE37") #[b Figura 7].
-          p.mb-4 #[em Tipos de impactos ambientales]
-          figure
-            img(src='@/assets/curso/tema2/img44.svg').m-auto
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-5.mb-4.mb-lg-1.p-3
+            h4 Huellas ambientales: 
+            .dual-txt-deco3
+              p(style="position: relative; z-index: 1;") Estas huellas consolidan un análisis de potenciales impactos ambientales que se generan de forma directa o indirecta a lo largo del ciclo de vida de un producto, servicio u organización. 
+              p.mb-0 Esta medición ha concretado la metodología de Análisis de Ciclo de Vida (ACV), especificando los impactos que deben incluirse en este análisis; la huella ambiental define de manera concreta la ejecución del ACV y determina alcances y categorías de impacto para que los resultados puedan ser comparables entre sí.
+          .col-lg-5
+            figure
+              img.mb-5(src='@/assets/curso/tema2/img37.png' style="width: 450px").m-auto
+          .col-lg-10
+            p.mb-5 Dentro de la huella ambiental se consideran un máximo de 14 tipos diferentes de impactos ambientales, los cuales puedes observar en la siguiente figura 7.
+            p.mb-0(style="color: #9FBE37") #[b Figura 7].
+            p.mb-4 #[em Tipos de impactos ambientales]
+            figure
+              img(src='@/assets/curso/tema2/img44.svg').m-auto
     .row.justify-content-center.mb-5
       .col-lg-10
         p.mb-4 #[b Análisis del Ciclo de Vida (ACV):]
