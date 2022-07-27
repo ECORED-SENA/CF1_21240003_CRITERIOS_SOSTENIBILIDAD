@@ -259,15 +259,15 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema4/img10.svg')
-          .tarjeta.color-color-primario.p-3(x="15%" y="33%" numero="1")
+          .tarjeta.color-color-primario.p-3(x="15%" y="33%" numero="1").fondo4
             p Llevar más de 12 meses de operaciones.
-          .tarjeta.color-color-primario.p-3(x="46%" y="40%" numero="2")
+          .tarjeta.color-color-primario.p-3(x="46%" y="40%" numero="2").fondo4
             p Operar en un mercado competitivo.
-          .tarjeta.color-color-primario.p-3(x="62%" y="46%" numero="3")
+          .tarjeta.color-color-primario.p-3(x="62%" y="46%" numero="3").fondo4
             p Requerimiento legal de empresa B.
-          .tarjeta.color-color-primario.p-3(x="75%" y="75%" numero="4")
+          .tarjeta.color-color-primario.p-3(x="75%" y="75%" numero="4").fondo4
             p Entidad con fines de lucro.
-          .tarjeta.color-color-primario.p-3(x="97%" y="25%" numero="5")
+          .tarjeta.color-color-primario.p-3(x="97%" y="25%" numero="5").fondo4
             p Negocio completo y distinto.
 
     Separador

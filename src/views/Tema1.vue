@@ -20,7 +20,7 @@
            p.mb-0 Cualquier tipo de organización debe tener claro su aporte frente a la construcción del territorio y su influencia frente al desarrollo de proyectos de alto impacto dentro del ámbito de la sostenibilidad, por ende, debe establecer acciones puntuales que apunten primero al bienestar humano y segundo que aporten a la equidad social y a la protección del medio ambiente. 
     p.mb-5 Desde esta perspectiva, el desarrollo sostenible busca que al tomar decisiones organizacionales estas favorezcan la gestión y el desarrollo del medio ambiente con ética y responsabilidad social, por ende, para que un desarrollo sostenible sea considerado como tal debe cumplir con algunas características, a continuación, se podrá observar en detalle el cada una de ellas:
     .row.bg17
-      .col-12.px-5
+      .col-12.px-3
         .row
           .col-lg-3(data-aos="fade-down")
             .tarjeta-avatar-b.mb-4

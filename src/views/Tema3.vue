@@ -46,60 +46,60 @@
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4.shadow-sm
           .p-4
-            p.mb-0 1. Creación de la Comisión ODS
-            p.mb-0 Decreto 280 de 2015
+            p.mb-0.text-center 1. Creación de la Comisión ODS
+            p.mb-0v.text-center Decreto 280 de 2015
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4.shadow-sm
           .p-4
-            p.mb-0 2. Adopción de la Agenda 2030 y los ODS
-            p.mb-0 Resolución A/RES/70/1
+            p.mb-0.text-center 2. Adopción de la Agenda 2030 y los ODS
+            p.mb-0.text-center Resolución A/RES/70/1
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4.shadow-sm
           .p-4
-            p.mb-0 3. Inclusión de los ODS en los Planes de Desarrollo Territorial
+            p.mb-0.text-center 3. Inclusión de los ODS en los Planes de Desarrollo Territorial
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4.shadow-sm
           .p-4
-            p.mb-0 4. Adopción del marco global de indicadores
-            p.mb-0 Resolución A/RES/71/313
+            p.mb-0.text-center 4. Adopción del marco global de indicadores
+            p.mb-0.text-center Resolución A/RES/71/313
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4.shadow-sm
           .p-4
-            p.mb-0 5. CONPES 3918
-            p.mb-0 Estrategia para la implementación de los ODS en Colombia
+            p.mb-0.text-center 5. CONPES 3918
+            p.mb-0.text-center Estrategia para la implementación de los ODS en Colombia
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.shadow-sm.color-primario4
           .p-4
-            p.mb-0 6. CONPES 3934 
-            p.mb-0 Política de crecimiento verde
+            p.mb-0.text-center 6. CONPES 3934 
+            p.mb-0.text-center Política de crecimiento verde
       .tarjeta-avatar
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.shadow-sm.color-primario4
           .p-4
-            p.mb-0 7. Estratégia Nacional de Economía circular
+            p.mb-0.text-center 7. Estratégia Nacional de Economía circular
       .tarjeta-avatar
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.shadow-sm.color-primario4
           .p-4
-            p.mb-0 8. CONPES 4004
-            p.mb-0 Economía circular en la gestión de los servicios de agua potable y manejo de aguas residuales
+            p.mb-0.text-center 8. CONPES 4004
+            p.mb-0.text-center Economía circular en la gestión de los servicios de agua potable y manejo de aguas residuales
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.shadow-sm.color-primario4
           .p-4
-            p.mb-0 9. CONPES 4021
-            p.mb-0 Política Nacional para el control de la deforestación y gestión sostenible de los bosques
+            p.mb-0.text-center 9. CONPES 4021
+            p.mb-0.text-center Política Nacional para el control de la deforestación y gestión sostenible de los bosques
       .tarjeta-avatar.shadow-sm
         img(src='@/assets/curso/tema3/img2.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
-            p.mb-0 10. CONPES 4023
-            p.mb-0 Política para la reactivación, la repotenciación y el crecimiento sostenible incluyente
+            p.mb-0.text-center 10. CONPES 4023
+            p.mb-0.text-center Política para la reactivación, la repotenciación y el crecimiento sostenible incluyente
 
 </template>
 
