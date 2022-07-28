@@ -9,54 +9,54 @@
     p.mb-5 Los conocimientos y capacidad de gestión son elementos clave para desarrollar una estrategia de sostenibilidad, además existen diferentes herramientas para llevar a cabo esta gestión, para conocerlas se debe revisar con detenimiento el recurso educativo aquí propuesto:
     TabsA.color-secundario
       .tarjeta.color-secundario.p-4(titulo="Alianzas estratégicas").shadow-sm
-        .row.align-items-center.p-4
+        .row.align-items-center.p-3
           .col-12
             p.mb-4 #[b Alianzas estratégicas]
             .row
-              .col-auto
+              .col-lg-2.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/tema4/img1.svg').m-auto
-              .col
+                  img.img-t(src='@/assets/curso/tema4/img1.svg').mx-auto
+              .col-lg-10
                 p.mb-0 Consiste en la integración de  todos los actores: comunidad, gobierno central, gobierno local, empresas del sector, cooperación internacional, organizaciones gubernamentales, organizaciones no gubernamentales y del tercer sector, entre otras. No siempre se relacionan con un aporte económico, muchas veces estas alianzas pueden ir mucho más allá, abordar temas de valor para las dos partes que les permitan avanzar hacia el logro de sus propios objetivos.
       .tarjeta.color-secundario.p-4(titulo="Gestión de riesgos").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Gestión de riesgos]
             .row
-              .col-auto
+              .col-lg-2.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/tema4/img2.svg').m-auto
-              .col
+                  img.img-t(src='@/assets/curso/tema4/img2.svg').mx-auto
+              .col-lg-10
                 p.mb-0 Las compañías que desarrollan proyectos sostenibles, especialistas en el tema, pueden aportar recursos basados en el conocimiento, esto permite mitigar los impactos negativos para ellos y otras organizaciones y sus diferentes grupos de interés; los riesgos deben cubrir aspectos económicos, ambientales y sociales.
       .tarjeta.color-secundario.p-4(titulo="Desarrollo de capacidades").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Desarrollo de capacidades]
             .row
-              .col-auto
+              .col-lg-2.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/tema4/img3.svg').m-auto
-              .col
+                  img.img-t(src='@/assets/curso/tema4/img3.svg').mx-auto
+              .col-lg-10
                 p.mb-0 Las organizaciones deben contribuir a desarrollar procesos de aprendizaje en la gestión sostenible de sus proyectos y de sus propios objetivos; la meta será mitigar las prácticas obsoletas o inadecuadas y migrar a unas que contemplen aspectos más allá de la productividad, el rendimiento económico o la generación exclusiva de valor para los accionistas, deben desarrollar aspectos ligados a temas como la transparencia, los derechos humanos, el manejo correcto de los residuos, el control del impacto ambiental, brindar prácticas laborales justas, entre otras.
       .tarjeta.color-secundario.p-4(titulo="Reportes de sostenibilidad").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Reportes de sostenibilidad]
             .row
-              .col-auto
+              .col-lg-2.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/tema4/img4.svg').m-auto
-              .col
+                  img.img-t(src='@/assets/curso/tema4/img4.svg').mx-auto
+              .col-lg-10
                 p.mb-0 Es una herramienta que le permite a las empresas comunicar públicamente sus resultados sociales, ambientales y económicos, no solo es un ejercicio de transparencia, el reporte es empleado como un mecanismo de gestión y mejora continua, dado que anualmente se deben reportar avances versus la gestión reportada en el periodo anterior. Este informe genera confianza en los clientes, el auspicio de nuevas compañías y socios potenciales que ofrezcan recursos para continuar con los planes por un futuro sostenible.
       .tarjeta.color-secundario.p-4(titulo="Conclusión").shadow-sm
         .row.align-items-center.p-4
           .col-12
             p.mb-4 #[b Conclusión]
             .row
-              .col-auto
+              .col-lg-2.mb-4.mb-lg-0
                 figure
-                  img(src='@/assets/curso/tema4/img5.svg').m-auto
-              .col
+                  img.img-t(src='@/assets/curso/tema4/img5.svg').mx-auto
+              .col-lg-10
                 p.mb-0 Todas estas herramientas permiten establecer las bases para las estrategias que combatan la pérdida de la biodiversidad, la contaminación y otras problemáticas actuales. Las empresas de hoy tienen una mayor sensibilidad frente a estas temáticas, no solo por considerarlas estratégicas, sino porque hoy el sector financiero reconoce y motiva el cambio y eso está directamente relacionado con la sostenibilidad económica del negocio.
     Separador
     #t_4_1
